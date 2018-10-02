@@ -6,3 +6,7 @@ The intent of this application is to ensure that the digitally naive are able to
 
 ## Intended Results
 This application will improve user awareness of a specialized curriculum for tech education, and can provide a direct communications channel to the end user. 
+
+## Technical Information
+
+This application is based off of Leocardoso94 Push Notification [Demo application](https://github.com/Leocardoso94/push-notification-demo). See this [write up](https://medium.freecodecamp.org/how-to-add-push-notifications-to-a-web-app-with-firebase-528a702e13e1) on FreeCodeCamp for implementation requirements.
