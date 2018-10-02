@@ -10,7 +10,7 @@ This application will improve user awareness of a specialized curriculum for tec
 ## Features  
 #### Planned Subscription features  
 - Topic Subscription
-- Track Subscription
+- Curriculum Track Subscription
 - Development Program Subscription
 - Geographic Subscription
 
